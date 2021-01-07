@@ -16,10 +16,15 @@
 This is a remake of the classical board game 7 Wonders duel. As the original game this remake remain a turn based game. This game has a basic version where you can enjoy it in a the console, and an advanced one. The advanced version has graphics and you cand play it with an basic ai.
 
 ## <a name="ss"></a>ScreenShots
-![Preview1](https://github.com/raduwolf12/7-wonders-duel/blob/main/Presentation%20pic/Capture.PNG)
-![Preview1](https://github.com/raduwolf12/7-wonders-duel/blob/main/Presentation%20pic/Capture1.PNG)
+Basic game looks like this:
 ![Preview1](https://github.com/raduwolf12/7-wonders-duel/blob/main/Presentation%20pic/basicView.PNG)
 ![Preview1](https://github.com/raduwolf12/7-wonders-duel/blob/main/Presentation%20pic/choose.PNG)
-![Preview1](https://github.com/raduwolf12/7-wonders-duel/blob/main/Presentation%20pic/chose.PNG)
+Advanced game looks like this:
 ![Preview1](https://github.com/raduwolf12/7-wonders-duel/blob/main/Presentation%20pic/start.PNG)
+![Preview1](https://github.com/raduwolf12/7-wonders-duel/blob/main/Presentation%20pic/chose.PNG)
+
+![Preview1](https://github.com/raduwolf12/7-wonders-duel/blob/main/Presentation%20pic/Capture.PNG)
+![Preview1](https://github.com/raduwolf12/7-wonders-duel/blob/main/Presentation%20pic/Capture1.PNG)
+
+
 
