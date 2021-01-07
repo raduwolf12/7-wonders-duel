@@ -1,0 +1,14 @@
+Utils/Age1CardsNames.txt
+Utils/Age1CardsPosition.txt
+Utils/Age1CardsSetUpCards.txt
+Utils/Age1DeckPresets.txt
+
+Utils/Age2DeckNames.txt
+Utils/Age2DeckPosition.txt
+Utils/Age2DeckSetUpCards.txt
+Utils/Age2DeckPresets.txt
+
+Utils/Age3DeckNames.txt
+Utils/Age3DeckPosition.txt
+Utils/Age3DeckSetUpCards.txt
+Utils/Age3DeckPresets.txt

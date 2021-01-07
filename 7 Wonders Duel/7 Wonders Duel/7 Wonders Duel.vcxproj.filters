@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="State.cpp">
+      <Filter>CoreEntities</Filter>
+    </ClCompile>
+    <ClCompile Include="Age2Deck.cpp">
+      <Filter>CoreEntities\Decks</Filter>
+    </ClCompile>
+    <ClCompile Include="Age3Deck.cpp">
+      <Filter>CoreEntities\Decks</Filter>
+    </ClCompile>
+    <ClCompile Include="AgeICards.cpp">
+      <Filter>CoreEntities\Decks</Filter>
+    </ClCompile>
+    <ClCompile Include="ManufacturedGoods.cpp">
+      <Filter>CoreEntities\Materials</Filter>
+    </ClCompile>
+    <ClCompile Include="Cost.cpp">
+      <Filter>CoreEntities\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="GuildDeck.cpp">
+      <Filter>CoreEntities\Decks</Filter>
+    </ClCompile>
+    <ClCompile Include="WonderCardDeck.cpp">
+      <Filter>CoreEntities\Decks</Filter>
+    </ClCompile>
+    <ClCompile Include="WonderCardModel.cpp">
+      <Filter>CoreEntities\Decks</Filter>
+    </ClCompile>
+    <ClCompile Include="RawMaterials.cpp">
+      <Filter>CoreEntities\Materials</Filter>
+    </ClCompile>
+    <ClCompile Include="MilitaryToken.cpp">
+      <Filter>CoreEntities\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>CoreEntities\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Points.cpp">
+      <Filter>CoreEntities\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="ProgressToken.cpp">
+      <Filter>CoreEntities\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Token.cpp">
+      <Filter>CoreEntities\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenuState.cpp">
+      <Filter>Graphics\States</Filter>
+    </ClCompile>
+    <ClCompile Include="GameState.cpp">
+      <Filter>Graphics\States</Filter>
+    </ClCompile>
+    <ClCompile Include="GameLogic.cpp">
+      <Filter>CoreEntities\Logic</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMechanics.cpp">
+      <Filter>CoreEntities\Logic</Filter>
+    </ClCompile>
+    <ClCompile Include="Card.cpp">
+      <Filter>CoreEntities</Filter>
+    </ClCompile>
+    <ClCompile Include="MainApplication.cpp">
+      <Filter>CoreEntities</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>CoreEntities</Filter>
+    </ClCompile>
+    <ClCompile Include="CardRender.cpp">
+      <Filter>Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="ActiveProgressTokens.cpp" />
+    <ClCompile Include="Board.cpp">
+      <Filter>CoreEntities</Filter>
+    </ClCompile>
+    <ClCompile Include="GameOverState.cpp" />
+    <ClCompile Include="PlaceCardsAge1.cpp" />
+    <ClCompile Include="PlaceCardsAge2.cpp" />
+    <ClCompile Include="PlaceCardsAge3.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Menu.h" />
+    <ClInclude Include="Age2Deck.h">
+      <Filter>CoreEntitiesHeader\DecksHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="Age3Deck.h">
+      <Filter>CoreEntitiesHeader\DecksHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="AgeICards.h">
+      <Filter>CoreEntitiesHeader\DecksHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="RawMaterials.h">
+      <Filter>CoreEntitiesHeader\MaterialsHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="ManufacturedGoods.h">
+      <Filter>CoreEntitiesHeader\MaterialsHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="Cost.h">
+      <Filter>CoreEntitiesHeader\EntitiesHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="WonderCardModel.h">
+      <Filter>CoreEntitiesHeader\DecksHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="WonderCardDeck.h">
+      <Filter>CoreEntitiesHeader\DecksHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenuState.h">
+      <Filter>Graphics\States</Filter>
+    </ClInclude>
+    <ClInclude Include="GameState.h">
+      <Filter>Graphics\States</Filter>
+    </ClInclude>
+    <ClInclude Include="ProgressToken.h">
+      <Filter>CoreEntitiesHeader\EntitiesHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="Token.h">
+      <Filter>CoreEntitiesHeader\EntitiesHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="Points.h">
+      <Filter>CoreEntitiesHeader\EntitiesHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>CoreEntitiesHeader\EntitiesHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="MilitaryToken.h">
+      <Filter>CoreEntitiesHeader\EntitiesHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="GuildDeck.h">
+      <Filter>CoreEntitiesHeader\DecksHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMechanics.h">
+      <Filter>CoreEntitiesHeader\LogicHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="Card.h">
+      <Filter>CoreEntitiesHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="State.h">
+      <Filter>CoreEntitiesHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="CardRender.h">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="ActiveProgressTokens.h" />
+    <ClInclude Include="Board.h">
+      <Filter>CoreEntities</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="GameOverState.h" />
+    <ClInclude Include="PlaceCardsAge1.h" />
+    <ClInclude Include="PlaceCardsAge2.h" />
+    <ClInclude Include="PlaceCardsAge3.h" />
+    <ClInclude Include="GameLogic.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".gitignore" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CoreEntities">
+      <UniqueIdentifier>{4e8eb01d-8636-4d84-8a6d-f24faa1095e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CoreEntitiesHeader">
+      <UniqueIdentifier>{281dbd19-80c2-49ee-b86e-18d23c3af41e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CoreEntities\Decks">
+      <UniqueIdentifier>{cd18a11e-695e-4c2f-a191-495c67bac8a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CoreEntities\Materials">
+      <UniqueIdentifier>{f2d16d9a-11ec-46ef-9691-1c6212947a92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CoreEntities\Entities">
+      <UniqueIdentifier>{49038985-bd57-4469-abca-8926cff66806}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CoreEntitiesHeader\DecksHeader">
+      <UniqueIdentifier>{4b2aff99-fe4a-4cf5-b2bd-231d061a45b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CoreEntitiesHeader\MaterialsHeader">
+      <UniqueIdentifier>{dfc34cc3-95b0-41a4-be8b-b6e5e6639a17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CoreEntitiesHeader\EntitiesHeader">
+      <UniqueIdentifier>{c48cb10f-45a5-4623-99dd-d7ea20fec293}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CoreEntitiesHeader\LogicHeader">
+      <UniqueIdentifier>{d855501c-bf1d-4682-8f30-35b61474e254}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphics">
+      <UniqueIdentifier>{a78db177-d706-44e5-852e-2ef8a20a5bf2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CoreEntities\Logic">
+      <UniqueIdentifier>{3ac89a2e-005c-4bf0-abf1-c0ead78dc66a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphics\States">
+      <UniqueIdentifier>{f548a0e7-91d7-4651-ac1b-a5b6c2620397}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="7 Wonders Duel.rc" />
+  </ItemGroup>
+</Project>

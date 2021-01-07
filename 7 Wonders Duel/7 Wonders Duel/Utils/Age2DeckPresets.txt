@@ -1,0 +1,47 @@
+Images/Age2Cards/card_back_age2.png
+SAWMILL
+Images/Age2Cards/FABRICA DE CHERESTEA.png
+BRICKYARD
+Images/Age2Cards/CARAMIDARIE.png
+SHELFQUARRY
+Images/Age2Cards/PIETRARIE.png
+GLASS-BLOWER
+Images/Age2Cards/ATELIER DE SUFLAT STICLA.png
+DRYING ROOM
+Images/Age2Cards/USCATORIE.png
+WALLS
+Images/Age2Cards/ZIDURI DE APARARE.png
+HORSE BREEDERS
+Images/Age2Cards/HERGHELIE.png
+BARRACKS
+Images/Age2Cards/CAZARMA.png
+ARCHERY RANGE
+Images/Age2Cards/POLIGON.png
+PARADE GROUND
+Images/Age2Cards/ARC DE TRIUMF.png
+FORUM
+Images/Age2Cards/FOR.png
+CARAVANSERY
+Images/Age2Cards/CARAVANSERAI.png
+CUSTOM HOUSE
+Images/Age2Cards/VAMA.png
+BREWERY
+Images/Age2Cards/BERARIE.png
+TRIBUNAL
+Images/Age2Cards/TRIBUNAL.png
+STATUE
+Images/Age2Cards/STATUIE.png
+TEMPLE
+Images/Age2Cards/TEMPLU.png
+AQUEDUCT
+Images/Age2Cards/APEDUCT.png
+ROSTRUM
+Images/Age2Cards/TRIBUNA.png
+LIBRARY
+Images/Age2Cards/BIBLIOTECA.png
+DISPENSARY
+Images/Age2Cards/DISPENSAR.png
+SCHOOL
+Images/Age2Cards/SCOALA.png
+LABORATORY
+Images/Age2Cards/LABORATOR.png

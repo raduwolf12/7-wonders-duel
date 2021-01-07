@@ -1,0 +1,47 @@
+Images/Age1Cards/card_back_age1.png
+LUMBER YARD
+Images/Age1Cards/DEPOZITDE CHERESTEA.png
+LOGGING CAMP
+Images/Age1Cards/EXPLOATARE FORESTIERA.png
+CLAY PIT
+Images/Age1Cards/EXPLOATAREA DE ARGILA.png
+CLAY POOL
+Images/Age1Cards/CARIERA DE ARGILA.png
+QUARRY
+Images/Age1Cards/CARIERA DE PIETRA.png
+STONE PIT
+Images/Age1Cards/EXPLOATAREA DE PIATRA.png
+GLASS WORKS
+Images/Age1Cards/STICLARIE.png
+PRESS
+Images/Age1Cards/PRESA.png
+GUARD TOWER
+Images/Age1Cards/TURN DE PAZA.png
+WORKSHOP
+Images/Age1Cards/ATELIER.png
+STONE RESERVE
+Images/Age1Cards/Rezerva de piatra.png
+CLAY RESERVE
+Images/Age1Cards/REZERVA DE ARGILA.png
+WOOD RESERVE
+Images/Age1Cards/Rezerva de lemne.png
+STABLE
+Images/Age1Cards/Grajduri.png
+GARISON
+Images/Age1Cards/GARNIZOANA.png
+PALISADE
+Images/Age1Cards/PALISADA.png
+SCRIPTORIUM
+Images/Age1Cards/SCRIPTORIUM.png
+PHARMACIST
+Images/Age1Cards/FARMACIE.png
+THEATER
+Images/Age1Cards/TEATRU.png
+ALTAR
+Images/Age1Cards/ALTAR.png
+BATHS
+Images/Age1Cards/BAI.png
+TAVERN
+Images/Age1Cards/Taverna.png
+APOTHECARY
+Images/Age1Cards/SPITERIE.png
