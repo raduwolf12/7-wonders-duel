@@ -17,9 +17,10 @@ This is a remake of the classical board game 7 Wonders duel. As the original gam
 
 ## <a name="ss"></a>ScreenShots
 Basic game looks like this:
+<br>
 ![Preview1](https://github.com/raduwolf12/7-wonders-duel/blob/main/Presentation%20pic/basicView.PNG)
-![Preview1](https://github.com/raduwolf12/7-wonders-duel/blob/main/Presentation%20pic/choose.PNG)
-Advanced game looks like this:
+![Preview1](https://github.com/raduwolf12/7-wonders-duel/blob/main/Presentation%20pic/choose.PNG)<br>
+Advanced game looks like this:<br>
 ![Preview1](https://github.com/raduwolf12/7-wonders-duel/blob/main/Presentation%20pic/start.PNG)
 ![Preview1](https://github.com/raduwolf12/7-wonders-duel/blob/main/Presentation%20pic/chose.PNG)
 
