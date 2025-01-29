@@ -88,6 +88,8 @@
     <ClCompile Include="PlaceCardsAge1.cpp" />
     <ClCompile Include="PlaceCardsAge2.cpp" />
     <ClCompile Include="PlaceCardsAge3.cpp" />
+    <ClCompile Include="SettingsWindow.cpp" />
+    <ClCompile Include="SettingsPanel.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Menu.h" />
@@ -170,6 +172,8 @@
     <ClInclude Include="PlaceCardsAge2.h" />
     <ClInclude Include="PlaceCardsAge3.h" />
     <ClInclude Include="GameLogic.h" />
+    <ClInclude Include="SettingsWindow.h" />
+    <ClInclude Include="SettingsPanel.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />

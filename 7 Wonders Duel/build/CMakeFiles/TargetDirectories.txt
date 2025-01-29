@@ -1,0 +1,5 @@
+D:/Projects/repo/7 Wonders Duel/build/CMakeFiles/7WondersDuel.dir
+D:/Projects/repo/7 Wonders Duel/build/CMakeFiles/ALL_BUILD.dir
+D:/Projects/repo/7 Wonders Duel/build/CMakeFiles/ZERO_CHECK.dir
+D:/Projects/repo/7 Wonders Duel/build/Logging/CMakeFiles/Logging.dir
+D:/Projects/repo/7 Wonders Duel/build/Logging/CMakeFiles/ALL_BUILD.dir

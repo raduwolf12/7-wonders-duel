@@ -4,6 +4,9 @@
 #include "GameState.h"
 #include "GameOverState.h"
 #include"Button.h"
+//#include "SettingsWindow.h"
+#include "SettingsPanel.h"
+
 class MainMenuState :
 	public State
 {
@@ -16,11 +19,16 @@ private:
 
 	sf::Music music;
 
-	bool botIsEnabled=false;
+	bool botIsEnabled = false;
 
 
 	std::map<std::string, Button*> buttons;
 	//Button* gamestate_btn;
+
+	//std::unique_ptr<SettingsWindow> settingsWindow;
+	SettingsPanel settingsPanel;
+
+
 
 	//Functions
 	void initVariables();
@@ -29,13 +37,14 @@ private:
 	void initKeyBinds();
 	void initButtons();
 	void initMusic();
+	void applySettingsChanges();
 
 public:
 	MainMenuState(sf::RenderWindow* window, std::map<std::string, int>* supportedKeys, std::stack<State*>* states);
 	virtual ~MainMenuState();
 
 	//Functions
-	
+
 
 	void updateInput(const float& dt);
 	void updateButtons();

@@ -8,12 +8,12 @@ bool GlobalState::PlayerisActive()
 
 void GlobalState::EnterState(BotUtils* m_bot)
 {
-	
+
 }
 
-void GlobalState::ExecuteSate(BotUtils*)
+void GlobalState::ExecuteState(BotUtils*)
 {
-	
+
 }
 
 void GlobalState::ExitState(BotUtils*)

@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\ActiveProgressTokens.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\Age2Deck.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\Age3Deck.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\AgeICards.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\AiSates.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\Board.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\BotUtils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\Button.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\BuyingState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\Card.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\CardRender.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\Cost.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\Entity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\GameLogic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\GameMechanics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\GameOverState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\GameState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\GlobalState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\GuildDeck.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\MainApplication.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\MainMenuState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\ManufacturedGoods.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\Menu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\MilitaryToken.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\PlaceCardsAge1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\PlaceCardsAge2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\PlaceCardsAge3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\Points.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\ProgressToken.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\RawMaterials.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\SettingsPanel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\SettingsWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\Signs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\State.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\Symbols.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\Token.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\WonderCardDeck.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\WonderCardModel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\7 Wonders Duel\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\repo\7 Wonders Duel\Logging\Logging.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Projects\repo\7 Wonders Duel\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{899C9AC3-B0C3-35CA-96DC-399F3C2D6FCE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

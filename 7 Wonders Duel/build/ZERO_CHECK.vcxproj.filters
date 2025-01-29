@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Projects\repo\7 Wonders Duel\build\CMakeFiles\2c9d2e2a615e3132256d29b9e7cf71ea\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{85CF8360-1587-3435-BCC4-292C40D81DD6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
