@@ -6,7 +6,10 @@
 /_external/SFML-2.5.1/doc/html
 /_external/SFML-2.5.1/examples
 /Video Presentation/7Wonders Duel demo.mp4
-
+./_external
+/_external
+_external/
+*./_external/
 # User-specific files
 *.rsuser
 *.suo
@@ -18,6 +21,8 @@
 *.userprefs
 
 # Build results
+*.build/
+/build/
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
